@@ -1,0 +1,11 @@
+# Dependencies for the LOPO eye-movement classification experiments.
+# Versions are those used in the Kaggle GPU environment (Python 3.11)
+# in which all reported results were produced.
+
+tensorflow==2.19.0
+numpy==2.0.2
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy==1.16.3
+statsmodels==0.14.6
+matplotlib==3.10.0
